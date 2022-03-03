@@ -44,11 +44,11 @@ async def cbstart(_, query: CallbackQuery):
                     ),
                 ],
                 [   
-                    InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
+                    InlineKeyboardButton(text="[🔎 Inline ]", switch_inline_query_current_chat=""),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Rishabhbhan4/Video-Bot"
+                        "🌐 Source Code", url="https://github.com/Ritikkashyap7/Love_Guru_Music.git"
                     )
                 ],
             ]
