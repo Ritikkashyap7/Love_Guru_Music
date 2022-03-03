@@ -1,6 +1,6 @@
 # Copyright (C) 2021 By Rishabh Music-Project
-# Commit Start Date 1/11/2021
-# Finished On 7/1/2022
+# Commit Start Date 10/2/2021
+# Finished On 7/3/2022
 
 from config import BOT_USERNAME
 from pyrogram.types import (
