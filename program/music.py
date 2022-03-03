@@ -1,6 +1,6 @@
-# Copyright (C) 2021 By Rishabh Music-Project
-# Commit Start Date 1/11/2021
-# Finished On 7/1/2022
+# Copyright (C) 2022 By Ritik Love-Music-Project
+# Commit Start Date 10/2/2022
+# Finished On 7/3/2022
 
 import re
 import asyncio
@@ -48,7 +48,7 @@ async def play(c: Client, m: Message):
         [
             [
                 InlineKeyboardButton(text="• Mᴇɴᴜ", callback_data="cbmenu"),
-                InlineKeyboardButton(text="• Group", url=f"https://t.me/lisasupportchat"),
+                InlineKeyboardButton(text="• Group", url=f""https://t.me/Yarri_Ka_Circle_7),
             ]
         ]
     )
