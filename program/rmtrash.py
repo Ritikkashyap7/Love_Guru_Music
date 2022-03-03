@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By RishabhMusicProject
+# Copyright (C) 2022 By LoveMusicProject
 
 import os
 from pyrogram import Client, filters
