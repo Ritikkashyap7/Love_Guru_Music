@@ -18,21 +18,21 @@
     <a href="https://github.com/Rishabhbhan4/video-Bot/network/members"> <img src="https://img.shields.io/github/stars/Rishabhbhan4/Video-Bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
+Can be found on Telegram as [Love Bot ❤](https://t.me/Love_Guru_Music_bot)</br>
 
 ### 🔎 Support Inline Search
 
-## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot)
+
+
 
 ## 🧪 Get `SESSION_NAME` from below:
 
- [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Rishabhbhan5/Rishabh-String-Session#main.py)
+ [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Ritikkashyap7/Session-Generator#main.py)
 
 
 ## 🎭 Preview
 <p align="center">
-  <img src="https://telegra.ph/file/29186dec7e882598a144e.jpg">
+
 </p>
 
 ## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
@@ -62,10 +62,10 @@ python3 main.py # run the bot.
 
 # Credits 💖
 
-- [Rishabh](https://github.com/Rishabhbhan4) ``Dev``
-- [Rishabh](https//gitHub.com/Rishabhbhan5) ``Dev``
+- [Ritik](https://github.com/Ritikkashyap7) ``Dev``
+
 - [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
 ------
 ## Telegram Support & Updates 🏢
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lisaSupportChat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/JennieHelpBots)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Yarri_Ka_Circle_7)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Yarri_Ka_Circle_7)
