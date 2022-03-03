@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Rishabh Project
+# Copyright (C) 2022 Love Project
 
 import re
 import uuid
