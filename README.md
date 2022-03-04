@@ -31,7 +31,7 @@ Can be found on Telegram as [Love Bot ❤](https://t.me/Love_Guru_Music_bot)</br
 
 
 ## 🎭 Preview
-<p align="center">(https://te.legra.ph/file/Screenshot_2022-03-04-17-48-06-59_5f48d69e3d30a093162f7e0ee7d45862.jpg)
+<p align="center">
 
 
 
