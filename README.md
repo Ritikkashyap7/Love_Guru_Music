@@ -27,7 +27,7 @@ Can be found on Telegram as [Love Bot ❤](https://t.me/Love_Guru_Music_bot)</br
 
 ## 🧪 Get `SESSION_NAME` from below:
 
- [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Ritikkashyap7/Session-Generator#main.py)
+ [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Ritikkashyap7/Session-Generator?v=1)
 
 
 ## 🎭 Preview
