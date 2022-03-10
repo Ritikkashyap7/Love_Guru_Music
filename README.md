@@ -34,7 +34,10 @@ Can be found on Telegram as [Love Bot ❤](https://t.me/Love_Guru_Music_bot)</br
 <p align="center">
 
 
-
+## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
+The easy way to host this bot, deploy to Heroku.
+Click On The Image To Deploy
+[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Ritikkashyap7/video-Bot)
 
 
 
